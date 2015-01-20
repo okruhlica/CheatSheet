@@ -1,0 +1,2 @@
+virtualenv venv #new virtual environment named venv
+. venv/bin/activate #to activate the virtual environment

@@ -1,0 +1,11 @@
+/Screen command:
+screen -list
+screen -r <session_name>
+
+/Screen shortcuts (^-a-*)
+c - create new window
+A - rename window
+d - detach (leave session)
+" - browse/select window
+
+
