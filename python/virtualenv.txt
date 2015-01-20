@@ -1,2 +1,4 @@
+# http://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/
+
 virtualenv venv #new virtual environment named venv
 . venv/bin/activate #to activate the virtual environment
